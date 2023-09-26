@@ -1,6 +1,6 @@
 # Wagtail CMS Packages
 
-This will be a catalogue of packages for Wagtail CMS
+A catalogue of packages I have made for Wagtail CMS
 
 - [Wagtail Honeypot](https://github.com/wagtail-packages/wagtail-honeypot)
 - [Wagtail 360](https://github.com/wagtail-packages/wagtail-360)
